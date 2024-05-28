@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899219100973",
+    "project_id": "sizzle-36b4f",
+    "storage_bucket": "sizzle-36b4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899219100973:android:e8ca0a1b5f3c3ce5c56fa4",
+        "android_client_info": {
+          "package_name": "com.example.sizzle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh1pwXFXN_Zzv63GXgLqZ8D-3ILMMM4hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-# sizzle
+# Sizzle - Food Delivery App
 
 A new Flutter project.
 

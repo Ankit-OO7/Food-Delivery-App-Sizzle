@@ -17,4 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <img src="https://github.com/Ankit-OO7/Food-Delivery-App-Sizzle/assets/135164319/25545f31-b6ba-45a2-a6b8-bb39542e39e5" height=600>
-![Screenshot_20240529_110757](https://github.com/Ankit-OO7/Food-Delivery-App-Sizzle/assets/135164319/4838f961-f89f-4099-874e-5d6d701e63be)
+<img src="https://github.com/Ankit-OO7/Food-Delivery-App-Sizzle/assets/135164319/ba45081b-aeec-4c71-be03-919fa8216756" height=600>
+

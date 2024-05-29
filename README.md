@@ -15,5 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="https://github.com/Ankit-OO7/Food-Delivery-App-Sizzle/assets/135164319/ba45081b-aeec-4c71-be03-919fa8216756" height=600>
+<img src="https://github.com/Ankit-OO7/Food-Delivery-App-Sizzle/assets/135164319/ba45081b-aeec-4c71-be03-919fa8216756" height=500>
 

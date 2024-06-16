@@ -7,6 +7,10 @@ Flutter project.
 The "Sizzle" Food Delivery App is a Flutter-based project designed to facilitate food delivery services. 
 
 For backend, Firebase has been added for User database and their order
+Features include - 
+  1. Sign In/Up page with animation
+  2. Dark mode - Enable it in app settings
+  3. Added 
 
 <img src="https://github.com/Ankit-OO7/Food-Delivery-App-Sizzle/assets/135164319/ba45081b-aeec-4c71-be03-919fa8216756" height=500>
 <img src="https://github.com/Ankit-OO7/Food-Delivery-App-Sizzle/assets/135164319/024707ae-d20d-4f4e-8ebb-6daab2299089" height=500>

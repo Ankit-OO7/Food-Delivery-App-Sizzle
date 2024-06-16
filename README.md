@@ -1,6 +1,6 @@
 # Sizzle - Food Delivery App
 
-Flutter project.
+A Flutter and Dart project.
 
 ## Intro
 

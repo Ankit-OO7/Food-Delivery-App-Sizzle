@@ -15,6 +15,8 @@ For backend, Firebase has been added for User database and their order
   4. Added card details during cart checkout
   5. Receipt will be genreated with quantity and total price after ordering the food
 
+#### Some images of the app are shown below -
+
 <img src="https://github.com/Ankit-OO7/Food-Delivery-App-Sizzle/assets/135164319/ba45081b-aeec-4c71-be03-919fa8216756" height=500>
 <img src="https://github.com/Ankit-OO7/Food-Delivery-App-Sizzle/assets/135164319/024707ae-d20d-4f4e-8ebb-6daab2299089" height=500>
 <img src="https://github.com/Ankit-OO7/Food-Delivery-App-Sizzle/assets/135164319/1d78c010-3b3e-4ef5-9a9c-1c48ecf81286" height=500>

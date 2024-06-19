@@ -10,10 +10,11 @@ For backend, Firebase has been added for User database and their order
 
 ### Features include - 
   1. Sign In/Up page with <b>Firebase</b>
-  2. Dark mode - Enable it in app settings
-  3. User can addons as per their choice
-  4. Added card details during cart checkout
-  5. Receipt will be genreated with quantity and total price after ordering the food
+  2. Dashboard for the items
+  3. Dark mode - Enable it in app settings
+  4. User can addons as per their choice
+  5. Added card details during cart checkout
+  6. Receipt will be genreated with quantity and total price after ordering the food
 
 #### Some images of the app are shown below -
 ###
